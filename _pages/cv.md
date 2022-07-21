@@ -17,30 +17,13 @@ Work experience
 ======
 * Research Assistant (Curr.) - Computational Physics Group
   * PI: Dr. Spencer Bryngelson
-  * 
-
 * Research Assistant (Curr.) - Hays' Lab
   * PI: Dr. James Hays
   * co-advised by Benjamin R. Wilson (Graduate Student Advisor)
   
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-
+* Teaching Assistant for:
+  * CS 4476: Fall 2021 (Introduction to Computer Vision - Undergraduate)
+  * CS 4476/CS 6476 Spring 2022 (Introduction to Computer Vision - Undergraduate and Graduate)
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
