@@ -25,5 +25,5 @@ Teaching
 ======
 * Teaching Assistant for:
   * CS 4476: Fall 2021 (Introduction to Computer Vision - Undergraduate)
-  * CS 4476/CS 6476 Spring 2022 (Introduction to Computer Vision - Undergraduate and Graduate)
+  * CS 4476/CS 6476: Spring 2022 (Introduction to Computer Vision - Undergraduate and Graduate)
   
