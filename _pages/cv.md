@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science, Georgia Institute of Technology, December 2022 (Expected)
 
-Work experience
+Work Experience
 ======
 * Research Assistant (Curr.) - Computational Physics Group
   * PI: Dr. Spencer Bryngelson
