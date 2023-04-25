@@ -19,7 +19,10 @@ Work Experience
   * PI: Dr. Spencer Bryngelson
 * Research Assistant (Curr.) - Hays' Lab
   * PI: Dr. James Hays
-  * co-advised by Benjamin R. Wilson (Graduate Student Advisor)
+  * mentored by Benjamin R. Wilson (Graduate Student Advisor)
+* Research Assitant (Curr.) - Ha Lab
+  * PI: Dr. Sehoon Ha
+  * mentored by Joanne Taery Kim (Graduate Student Advisor)
   
 Teaching
 ======
