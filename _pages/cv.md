@@ -19,7 +19,7 @@ Work Experience
 * Research Assistant (Curr.) - Computational Physics Group
   * Advisor: Dr. Spencer Bryngelson
   * Co-advised by Dr. Florian Schaefer
-* Research Assistant (Curr.) - Hays' Lab
+* Research Assistant (August 2021 - October 2022) - Hays' Lab
   * Advisor: Dr. James Hays
   * mentored by Benjamin R. Wilson (Graduate Student Advisor)
 * Research Assitant (Curr.) - Ha Lab
