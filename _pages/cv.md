@@ -11,17 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Georgia Institute of Technology, December 2022 (Expected)
+* B.S. in Computer Science, Georgia Institute of Technology, Spring 2024 (Expected)
+* B.S. in Mathematics, Georgia Institute of Technology, Spring 2024 (Expected)
 
 Work Experience
 ======
 * Research Assistant (Curr.) - Computational Physics Group
-  * PI: Dr. Spencer Bryngelson
+  * Advisor: Dr. Spencer Bryngelson
+  * Co-advised by Dr. Florian Schaefer
 * Research Assistant (Curr.) - Hays' Lab
-  * PI: Dr. James Hays
+  * Advisor: Dr. James Hays
   * mentored by Benjamin R. Wilson (Graduate Student Advisor)
 * Research Assitant (Curr.) - Ha Lab
-  * PI: Dr. Sehoon Ha
+  * Advisor: Dr. Sehoon Ha
   * mentored by Joanne Taery Kim (Graduate Student Advisor)
   
 Teaching
